@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TV_MAZE.SummaryPage">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout>
+            <Label x:Name="resumen" Font="Bold" FontSize="17"                
+                HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"/>
+            
+            <Image x:Name="Img"  HorizontalOptions="Center" Aspect="Fill" />
+        </StackLayout>
+            </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

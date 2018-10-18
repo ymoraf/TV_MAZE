@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TV_MAZE.DescriptionPage"
+             x:Name="Desc">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <StackLayout Orientation="Horizontal" />
+
+            <ScrollView>
+            <StackLayout Orientation="Vertical">
+
+                <StackLayout.Margin>
+                    <OnPlatform iOS="30" Android="10" x:TypeArguments="Thickness" />
+                </StackLayout.Margin>
+
+                    <TableView Intent="Data">
+                        <TableRoot>
+                            <TableSection>
+                                <ViewCell>
+                                    <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                                        <Label Text="Id:" TextColor="#45b39d" FontSize="15" Font="Bold"/>
+                                        <Label x:Name ="ID" TextColor="#503026"/>
+                                    </StackLayout>
+                                </ViewCell>
+                                <ViewCell>
+                                    <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                                        <Label Text="Nombre:" TextColor="#45b39d" FontSize="15" Font="Bold"/>
+                                        <Label x:Name ="nombre" HorizontalOptions="Center" TextColor="#503026" />
+                                    </StackLayout>
+                                </ViewCell>
+                                <ViewCell>
+                                    <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" >
+                                        <Label Text="Url:" TextColor="#45b39d" FontSize="15" Font="Bold" HeightRequest="150"/>
+                                        <Label x:Name ="url" TextColor="#503026" />
+                                    </StackLayout>
+                                </ViewCell>
+                                <ViewCell>
+                                    <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                                        <Label Text="Tipo:" TextColor="#45b39d" FontSize="15" Font="Bold"/>
+                                        <Label x:Name ="tipo" HorizontalOptions="Center" TextColor="#503026" />
+                                    </StackLayout>
+                                </ViewCell>
+                                <ViewCell>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="Idioma:" TextColor="#45b39d" FontSize="15" Font="Bold"/>
+                                        <Label x:Name ="languaje" TextColor="#503026" />
+                                    </StackLayout>
+                                </ViewCell>
+                            </TableSection>
+                        </TableRoot>
+                    </TableView>
+
+                    <Image x:Name="Img"  HorizontalOptions="Center" WidthRequest="300" Aspect="Fill" />
+
+                </StackLayout>
+            </ScrollView>
+
+            <Button x:Name="ButtonVer" HorizontalOptions="Center"  Text="Ver Resumen" Command="Clicked" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

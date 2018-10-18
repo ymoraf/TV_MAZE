@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TV_MAZE"
+             x:Class="TV_MAZE.MainPage"
+             x:Name="Root">
+
+    <StackLayout Orientation="Vertical">
+        <StackLayout Orientation="Horizontal" />
+
+        <StackLayout Orientation="Vertical">
+
+            <StackLayout.Margin>
+                <OnPlatform iOS="30" Android="10" x:TypeArguments="Thickness" />
+            </StackLayout.Margin>
+            <Entry x:Name="Criterio" Placeholder="Buscar Shows de" />
+        </StackLayout>
+
+        <Button x:Name="ButtonBuscar" HorizontalOptions="Center"  Text="Buscar" Command="{Binding BuscarComando}" />
+
+        <ListView x:Name="ListShows" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"
+                  BindingContext="{Binding Source={x:Reference Root} }"
+                  ItemsSource="{Binding Path=Items}"
+                  IsRefreshing="{Binding IsBusy}"
+                  IsPullToRefreshEnabled="true"
+                  RefreshCommand="{Binding BuscarComando}"
+                  ItemSelected="ListShows_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Label Margin="5" Text="{Binding name}" TextColor="Blue" HorizontalTextAlignment="Center"/>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

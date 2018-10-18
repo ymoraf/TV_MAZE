@@ -1,0 +1,35 @@
+D:\Proyecto Xamarin\TV_MAZE\TV_MAZE\TV_MAZE\bin\Debug\netstandard2.0\TV_MAZE.deps.json
+D:\Proyecto Xamarin\TV_MAZE\TV_MAZE\TV_MAZE\bin\Debug\netstandard2.0\TV_MAZE.dll
+D:\Proyecto Xamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.csprojAssemblyReference.cache
+D:\Proyecto Xamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.csproj.CoreCompileInputs.cache
+D:\Proyecto Xamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.AssemblyInfoInputs.cache
+D:\Proyecto Xamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.AssemblyInfo.cs
+D:\Proyecto Xamarin\TV_MAZE\TV_MAZE\TV_MAZE\bin\Debug\netstandard2.0\TV_MAZE.pdb
+D:\Proyecto Xamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Proyecto Xamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Proyecto Xamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Proyecto Xamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.dll
+D:\Proyecto Xamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.pdb
+D:\Users\ymoraf\Desktop\ProyectoXamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\ymoraf\Desktop\ProyectoXamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\DescriptionPage.xaml.g.cs
+D:\Users\ymoraf\Desktop\ProyectoXamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\ymoraf\Desktop\ProyectoXamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\SummaryPage.xaml.g.cs
+D:\Users\ymoraf\Desktop\ProyectoXamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.csproj.CoreCompileInputs.cache
+D:\Users\ymoraf\Desktop\ProyectoXamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.AssemblyInfoInputs.cache
+D:\Users\ymoraf\Desktop\ProyectoXamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.AssemblyInfo.cs
+D:\Users\ymoraf\Desktop\ProyectoXamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.dll
+D:\Users\ymoraf\Desktop\ProyectoXamarin\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.pdb
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.csprojAssemblyReference.cache
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\DescriptionPage.xaml.g.cs
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\SummaryPage.xaml.g.cs
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.csproj.CoreCompileInputs.cache
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.AssemblyInfoInputs.cache
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.AssemblyInfo.cs
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.dll
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\TV_MAZE.pdb
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\bin\Debug\netstandard2.0\TV_MAZE.deps.json
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\bin\Debug\netstandard2.0\TV_MAZE.dll
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\bin\Debug\netstandard2.0\TV_MAZE.pdb
+C:\Users\Extreme Tech\Documents\CursoXamarin\Curso 2.0\TV_MAZE\TV_MAZE\TV_MAZE\TV_MAZE\obj\Debug\netstandard2.0\XamlC.stamp
